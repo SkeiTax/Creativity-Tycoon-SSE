@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "09a743ed-e3eb-4084-b99b-07e20fc9f9ac",
+            "Value": {
+                "id": "c4944cd0-3077-484c-b48c-c259737b7260",
+                "resourcePath": "scripts\\scrProgressiveVal\\scrProgressiveVal.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "111f81b4-4075-4247-9551-bb9cbf00d7b3",
+            "Value": {
+                "id": "e997f0e1-cce4-46cc-b596-6797215b3b2f",
+                "resourcePath": "objects\\oScoreBoard\\oScoreBoard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1ca2f28b-e510-46e0-b72b-72618403b32e",
             "Value": {
                 "id": "322b1494-2da5-455c-9996-e909b7381c29",
@@ -44,6 +60,14 @@
                 "id": "5a679462-9766-4cbb-8467-563350ddd995",
                 "resourcePath": "views\\31cffb33-285b-4ec7-a1ba-1f29288dc9f0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "32c5564d-57ce-4f16-9416-ce3487f17545",
+            "Value": {
+                "id": "79f45333-b3c0-4750-88b6-abd39816464f",
+                "resourcePath": "objects\\object3\\object3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -79,6 +103,14 @@
             }
         },
         {
+            "Key": "4697c09e-005f-4142-bb06-f79600b51330",
+            "Value": {
+                "id": "e29d4ce0-a8a6-439e-9cc4-ceea951a872e",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "476bfde6-e990-4882-bdf1-577c21ad794d",
             "Value": {
                 "id": "f691e629-9f68-42a3-aa65-43df284b69cb",
@@ -92,6 +124,14 @@
                 "id": "f3d18e8d-d05e-46a3-8b8e-ceac6ddba928",
                 "resourcePath": "views\\48dc712e-142f-4f81-aaa1-20171794f3fc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4f1d4ff7-93b9-4916-91be-4191e8df6313",
+            "Value": {
+                "id": "76af1439-5c5c-4f31-b490-ee6f3890e8a9",
+                "resourcePath": "objects\\oPSText\\oPSText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -115,6 +155,14 @@
             "Value": {
                 "id": "d06dfc87-edd0-4ed3-b7e8-1a95f58f1069",
                 "resourcePath": "views\\6af19b45-d453-4b1b-80ed-0b6b7c521d72.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72e5b078-3d33-4d9b-8e6c-0181f245ab5d",
+            "Value": {
+                "id": "d0f74b0c-48ba-4682-a4fc-57a079f3138d",
+                "resourcePath": "views\\72e5b078-3d33-4d9b-8e6c-0181f245ab5d.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -143,11 +191,27 @@
             }
         },
         {
+            "Key": "78b26f0b-016a-47f9-8769-861cccb76b3c",
+            "Value": {
+                "id": "5317b0b9-3dce-4d8a-aaa8-c0781b1a4996",
+                "resourcePath": "objects\\oButton\\oButton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "677a3d22-d203-4d7f-97a7-7ab6736a8d42",
                 "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
                 "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "80d67e68-1bf1-4039-987b-4870afd3ef14",
+            "Value": {
+                "id": "3d0721bc-538d-48ad-9a4c-b085710b2c50",
+                "resourcePath": "objects\\oClickButton\\oClickButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -261,10 +325,18 @@
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
             }
+        },
+        {
+            "Key": "fa18d33a-0f55-4555-9af1-429571426c05",
+            "Value": {
+                "id": "a5250c54-3ff8-410f-bd19-3290ec4089e8",
+                "resourcePath": "objects\\Ganeral\\Ganeral.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "09a743ed-e3eb-4084-b99b-07e20fc9f9ac"
     ],
     "tutorial": ""
 }

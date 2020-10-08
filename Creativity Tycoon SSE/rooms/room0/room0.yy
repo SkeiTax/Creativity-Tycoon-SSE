@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "a02d55a5-cc9a-463b-9e46-a4cb39d2d56a",
+        "66d1eef9-e3ab-4483-96ee-4141f22b7635"
     ],
     "IsDnD": false,
     "layers": [
@@ -16,8 +17,8 @@
             "name": "Instances",
             "id": "3d2e108d-cd04-4ca6-bb9c-5ef03d4dca88",
             "depth": 0,
-            "grid_x": 32,
-            "grid_y": 32,
+            "grid_x": 128,
+            "grid_y": 128,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": false,
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_389B27C4","id": "a02d55a5-cc9a-463b-9e46-a4cb39d2d56a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_389B27C4","objId": "80d67e68-1bf1-4039-987b-4870afd3ef14","properties": null,"rotation": 0,"scaleX": 3,"scaleY": 3,"mvc": "1.1","x": 256,"y": 256},
+{"name": "inst_3A3ADF5D","id": "66d1eef9-e3ab-4483-96ee-4141f22b7635","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3A3ADF5D","objId": "fa18d33a-0f55-4555-9af1-429571426c05","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
             ],
             "layers": [
 
@@ -87,7 +89,7 @@
     },
     "roomSettings":     {
         "id": "4322f71d-00f4-4c65-8335-d80cc41164e9",
-        "Height": 768,
+        "Height": 512,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
