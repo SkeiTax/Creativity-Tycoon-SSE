@@ -9,7 +9,7 @@ if (isClick)
 		dAlpha = -0.01;
 		direction = 80 + random(20);
 		dAngle = random_range(-5, 5);
-		text = General.baseDScore;
+		text = Ganeral.baseDScore;
 	}
-	General._score = General.baseDScore;
+	Ganeral._score += Ganeral.baseDScore;
 }

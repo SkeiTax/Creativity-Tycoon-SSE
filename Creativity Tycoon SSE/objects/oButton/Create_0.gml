@@ -3,5 +3,6 @@
 
 size = image_xscale;
 dSize = size;
-isClick = false
+isClick = false;
+clickAnim = 0;
 

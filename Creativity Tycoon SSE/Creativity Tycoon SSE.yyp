@@ -66,7 +66,7 @@
             "Key": "32c5564d-57ce-4f16-9416-ce3487f17545",
             "Value": {
                 "id": "79f45333-b3c0-4750-88b6-abd39816464f",
-                "resourcePath": "objects\\object3\\object3.yy",
+                "resourcePath": "objects\\oText\\oText.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "5c198025-f694-4be3-a95d-f57e1e45f57f",
+            "Value": {
+                "id": "3e9f8fce-2c6b-47d3-8ecd-63b1c1d46dff",
+                "resourcePath": "fonts\\fText\\fText.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "60d3da6d-679f-4e5a-8645-90733ee3f4c3",
             "Value": {
                 "id": "28cdc0ae-852e-47df-962a-d0d1ce53a543",
@@ -188,6 +196,14 @@
                 "id": "0a49f95b-bf6c-48db-95b7-c295dbd4b677",
                 "resourcePath": "views\\781b6888-3a5b-4b55-a9cd-bef9ba66e6f6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7855d0f5-fc3b-4ee3-adda-9cabaacff31d",
+            "Value": {
+                "id": "8aa0b7e0-60f4-4331-9fa5-386f21d60962",
+                "resourcePath": "sprites\\sBackground1\\sBackground1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,6 +255,14 @@
             }
         },
         {
+            "Key": "99199a3f-aac3-456c-a242-db156c4cbcb9",
+            "Value": {
+                "id": "1314984d-e300-4c15-93c6-d73aa487ba2d",
+                "resourcePath": "objects\\oCreativityGenBord\\oCreativityGenBord.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9c9943d6-a243-4bd7-80f3-f8875232edf5",
             "Value": {
                 "id": "a242769f-17d0-4b96-b0bb-721fff8c1604",
@@ -279,6 +303,14 @@
             }
         },
         {
+            "Key": "cea1b8b8-92cf-4c59-84d5-91373b6698d8",
+            "Value": {
+                "id": "5791582f-151d-451f-9009-1d0295fe39e1",
+                "resourcePath": "fonts\\fBack\\fBack.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "335b6ca3-ba04-498d-9b32-858974104221",
@@ -292,6 +324,14 @@
                 "id": "1cc4e2f0-1fdd-4148-ad2b-8fd4804b3825",
                 "resourcePath": "views\\eafd959f-a0d5-4e5b-b388-17ece7f11833.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb5af28e-bb15-4d9f-99ba-1331f39a7592",
+            "Value": {
+                "id": "6841e52e-c997-4157-86f9-0801f4260180",
+                "resourcePath": "scripts\\draw_text_ol\\draw_text_ol.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -336,7 +376,8 @@
         }
     ],
     "script_order": [
-        "09a743ed-e3eb-4084-b99b-07e20fc9f9ac"
+        "09a743ed-e3eb-4084-b99b-07e20fc9f9ac",
+        "eb5af28e-bb15-4d9f-99ba-1331f39a7592"
     ],
     "tutorial": ""
 }

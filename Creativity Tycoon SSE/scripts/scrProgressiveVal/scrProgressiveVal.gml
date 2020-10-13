@@ -1,5 +1,4 @@
-var weigth = argument0;
-var val	   = argument1;
+var val	= argument0;
 
 
-return val*val/(100*weigth)+1;
+return val*2.1;

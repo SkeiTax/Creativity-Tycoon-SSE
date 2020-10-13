@@ -3,5 +3,5 @@
 
 // Inherit the parent event
 event_inherited();
-
-alarm[0] = 60;
+autoClickClock = 120;
+alarm[0] = autoClickClock;

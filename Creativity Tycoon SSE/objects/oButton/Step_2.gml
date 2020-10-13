@@ -3,7 +3,7 @@
 
 if (isClick)
 {
-	dSize = size*0.88;
+	dSize = size*0.9;
 }
 
 dSize = min(size, dSize*1.01);

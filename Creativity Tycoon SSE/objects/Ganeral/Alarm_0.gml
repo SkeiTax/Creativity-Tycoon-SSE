@@ -3,4 +3,4 @@
 
 
 alarm[0] = 10;
-_score = dscore;
+_score += dscore;
